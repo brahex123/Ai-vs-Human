@@ -48,12 +48,7 @@ git clone https://github.com/brahex123/Ai-vs-Human.git
 cd Ai-vs-Human
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the notebook:
+2. Open the notebook:
 ```bash
 jupyter notebook Detecte_Ai.ipynb
 ```
@@ -87,11 +82,8 @@ Models were evaluated using:
 
 ## 👨‍💻 Author
 
-- **Ibrahim Mechaouat**  
+- **Brahim Mechaouat**  
   [Portfolio](https://brahex123.github.io/ibrahex123.github.io/) • [LinkedIn](https://www.linkedin.com/in/ibrahim-mechaouat-21a939178/) • [GitHub](https://github.com/brahex123)
 
 ---
 
-## 📄 License
-
-This project is released under the MIT License.
